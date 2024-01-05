@@ -1,7 +1,8 @@
 repo_name: steveny2k/LeetCodeAnimation
 report_id: f45eea7f13159c7ab9f198cdb0292937
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T09:37:18+00:00'
+timestamp: '2024-01-05T08:55:04+00:00'
 requested_by: MisterBooo
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/steveny2k/LeetCodeAnimation
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/steveny2k/LeetCodeAnimation
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/steveny2k/LeetCodeAnimation
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -45,6 +49,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/steveny2k/LeetCodeAnimation
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -54,18 +59,20 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/steveny2k/LeetCodeAnimation/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: nettee
   last_updated_on: 2020-04-16 14:37:38.000000000 Z
 - name: fire
   description: A library for automatically generating command line interfaces
-  package_url: https://pypi.org/fire
+  package_url: https://pypi.org/project/fire
   license: Apache-2.0
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20129/default_3146a05cf4dd77d8b50cff25709373c081ac5053.png
+  detection_source_url: https://github.com/steveny2k/LeetCodeAnimation/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: nettee
   last_updated_on: 2020-04-16 14:37:38.000000000 Z
